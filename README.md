@@ -608,3 +608,7 @@ Parallelise at the outermost level possible. This will minimise the frequency of
 ### Scheduling
 
 If we create computational tasks, and realy on the runtime to assign these to the threads, then we incur some overheads. For example, non-static loop schedules will increase the overhead.
+
+## Acknowledgements 
+
+I would like to acknowledge financial support from the EPSRC Centre for Doctoral Training in Next Generation Computational Modelleing grant EP/L015382/1.
